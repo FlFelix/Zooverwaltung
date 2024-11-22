@@ -2,6 +2,7 @@
 Projekt Zooverwaltung
 
 Einführung
+
 Im Rahmen unserer Ausbildung zum Fachinformatiker Anwendungsentwicklung bei BITLC GmbH in Dortmund ist dieses Projekt zustande gekommen. Das Business IT Learning Center (BITLC) ist ein modernes Bildungszentrum, das an mehreren Standorten vertreten ist und mit zeitgemäßer Hard- und Software ausgestattet ist.
 
 Projektumfeld
