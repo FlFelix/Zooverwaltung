@@ -5,10 +5,14 @@ Einführung
 
 Im Rahmen unserer Ausbildung zum Fachinformatiker Anwendungsentwicklung bei BITLC GmbH in Dortmund ist dieses Projekt zustande gekommen. Das Business IT Learning Center (BITLC) ist ein modernes Bildungszentrum, das an mehreren Standorten vertreten ist und mit zeitgemäßer Hard- und Software ausgestattet ist.
 
+
 Projektumfeld
+
 Im Gegensatz zu E-Learning-Angeboten setzt BITLC auf Präsenzunterricht und bietet jedem Teilnehmer eine individuelle Förderung. Der Unterricht zeichnet sich durch eine angenehme Lernatmosphäre und projektbezogenes Arbeiten aus, geleitet von hochqualifizierten Dozenten mit langjähriger Praxiserfahrung.
 
+
 Projektbeschreibung
+
 Im Rahmen unserer Ausbildung haben mein Kollege und ich eine Anwendung für den Gelsenkirchener Zoo entwickelt. Diese Software dient dazu, den Tierpflegern eine effiziente Möglichkeit zu bieten, den Zustand der Tiere vom Computer aus zu überwachen und bei Bedarf Fütterungsmaßnahmen einzuleiten. Die entwickelte Anwendung ermöglicht es den Tierpflegern:
 •	Den Gesundheitszustand der Tiere zu überprüfen
 •	Automatische Aktualisierung über die Zustände der Tiere in den verschiedenen Welten
@@ -16,25 +20,32 @@ Im Rahmen unserer Ausbildung haben mein Kollege und ich eine Anwendung für den 
 •	Die Produktivität der Tierpfleger zu überprüfen 
 
 Projektbegründung 
+
 Der Gelsenkirchener Zoo steht vor der Herausforderung eines akuten Personalmangels, insbesondere im Bereich der Tierpflege. Die engagierten Tierpfleger leisten zwar hervorragende Arbeit, stehen jedoch aufgrund der hohen Anzahl von Tieren und der vielfältigen Aufgaben unter erheblichem Zeit- und Arbeitsdruck. Diese Situation hat uns dazu motiviert, eine Lösung zu entwickeln, die den Arbeitsalltag der Tierpfleger spürbar erleichtert und gleichzeitig die Bedürfnisse der Tiere optimal berücksichtigt.
 Unsere Idee ist es, eine Anwendung zu schaffen, die die tägliche Zustandsüberprüfung und die Fütterungsprozesse deutlich effizienter gestaltet. Ziel ist es, durch eine intelligente und benutzerfreundliche Software die Zeit für diese zentralen Aufgaben zu verkürzen, ohne Kompromisse bei der artgerechten Versorgung der Tiere einzugehen.
 Die Anwendung wird sicherstellen, dass jedes Tier versorgt wird. So können die Tierpfleger mehr Zeit für andere wichtige Tätigkeiten wie die Gehege pflege, medizinische Versorgung oder das Wohl der Tiere investieren. Mit diesem Projekt möchten wir nicht nur den Tierpflegern im Gelsenkirchener Zoo eine wertvolle Unterstützung bieten, sondern auch einen Beitrag zu einer nachhaltigeren und effizienteren Tierhaltung leisten. Unser Ansatz verbindet Technologie und Tierwohl auf innovative Weise und könnte langfristig auch für andere Zoos und ähnliche Einrichtungen von Interesse sein.
 
 Technische Umsetzung 
+
 Für die Entwicklung dieser Anwendung haben wir Visual Studio Forms genutzt. Diese Plattform ermöglichte es uns, eine benutzerfreundliche Oberfläche zu gestalten, die den Anforderungen der Tierpfleger entspricht. Die Anwendung ist so konzipiert, dass sie einfach zu bedienen ist und gleichzeitig alle notwendigen Funktionen für ein effektives Tiermanagement bereitstellt. Diese Lösung steht im Einklang mit dem praxisnahen Ausbildungsansatz der BITLC GmbH, der darauf abzielt, die Teilnehmer auf die Anforderungen des IT-Arbeitsmarktes vorzubereiten.
 Das Projekt demonstriert die Fähigkeit, moderne und effiziente IT-Lösungen für spezifische Anwendungsfälle zu entwickeln, was ein zentrales Ziel der Ausbildung zum Fachinformatiker für Anwendungsentwicklung ist.
 
 Entwicklungsprozess
+
 Das Projekt wird nach dem erweiterten Wasserfallmodell durchgeführt. Diese Methodik bietet mehrere Vorteile für unser Vorhaben.
 Das erweiterte Wasserfallmodell ermöglicht eine klare Strukturierung des Projektablaufs. Jede Phase ist deutlich definiert, was eine präzise Planung und Durchführung der einzelnen Projektschritte erlaubten. Dies ist besonders vorteilhaft für uns als Auszubildende, da es uns hilft, den Überblick über den gesamten Entwicklungsprozess zu behalten.
 Im Gegensatz zum klassischen Wasserfallmodell bietet die erweiterte Version die Möglichkeit, zwischen den Phasen rückwärtszugehen. Diese Flexibilität erlaubt es uns vorherige Entscheidungen zu überdenken und anzupassen, auf unvorhergesehene Herausforderungen zu reagieren und die Qualität des Endprodukts durch Verbesserungen zu erhöhen.
 Die Möglichkeit rückwärtszugehen und Anpassungen vorzunehmen ist für uns Auszubildenden ein großer Vorteil, denn dies ermöglicht es uns, aus Erfahrungen zu lernen und das Projekt kontinuierlich zu optimieren. 
 Dies bereitet uns optimal auf zukünftige berufliche Herausforderungen vor. Durch die Kombination von strukturiertem Vorgehen und der Möglichkeit zur Anpassung schafft das erweiterte Wasserfallmodell ideale Voraussetzungen für den erfolgreichen Abschluss unseres Zoo-Management-Projekts im Rahmen unserer Ausbildung bei BITLC GmbH.
 
+
 Analysephase // differenzieren von IST und SOLL Analyse
+
 Da sich das Gelsenkirchener Zoo im Anfangszustand der IT bewegt, müssen wir von Null anfangen und mit den realen Umständen zurechtkommen. Um mit realen Umständen voranzukommen, müssen wir Objektorientierte Programmierung einsetzen und eine einfach Benutzeroberfläche erstellen. Für diese Aufgabe haben wir uns schnell für C# entschieden. Aktuell besitzt der Zoo nur über eine Liste an Tierarten, Tieren, Tierfutter und Mitarbeiter, welche in das Programm eingebunden werden sollen. Gleichzeitig soll die Anwendung für spätere Herausforderungen leicht zu erweitern und zu warten sein.  Dies schafft man mit einem strukturierten Aufbau und Nutzung sämtlicher Klassen, die die Übersicht aufrecht hält.
 
+
 Entwurfsphase
+
 Das Projekt wird im Zeitraum vom 15.11.2024 bis 22.11.2024 durchgeführt. Die tägliche Arbeitszeit beträgt 8 Stunden. Gearbeitet wird am Arbeitsplatz vor Ort. Für das Projekt stand ein Zeitrahmen von 48 Stunden zur Verfügung. Dieser wurde in verschiedene Phasen unterteilt, die bei der Softwareentwicklung durchlaufen werden. Hier die grobe Aufteilung der Projektphasen:
 
 Für die Durchführung des Projektes steht ein Arbeitsplatz mit Computer zur Verfügung. Das auf dem Computer installierte Betriebssystem ist Windows 10. Im Rahmen der Projektarbeit wird verschiedene Software verwendet, die bereits installiert ist. Dazu gehören Microsoft Visual Studio 2022, Microsoft Office Word, Microsoft Office Excel, diverse Browser und Notepad++. Diagramme werden mit yEd erstellt. Screenshots werden mit Lightshot erstellt und gegebenenfalls mit paint.net nachbearbeitet.
