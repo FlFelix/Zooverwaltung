@@ -12,10 +12,10 @@ Im Gegensatz zu E-Learning-Angeboten setzt BITLC auf Präsenzunterricht und biet
 Projektbeschreibung
 
 Im Rahmen unserer Ausbildung haben mein Kollege und ich eine Anwendung für den Gelsenkirchener Zoo entwickelt. Diese Software dient dazu, den Tierpflegern eine effiziente Möglichkeit zu bieten, den Zustand der Tiere vom Computer aus zu überwachen und bei Bedarf Fütterungsmaßnahmen einzuleiten. Die entwickelte Anwendung ermöglicht es den Tierpflegern:
-•	Den Gesundheitszustand der Tiere zu überprüfen
-•	Automatische Aktualisierung über die Zustände der Tiere in den verschiedenen Welten
-•	Fütterungsmaßnahmen direkt über die Anwendung zu initiieren
-•	Die Produktivität der Tierpfleger zu überprüfen 
+• Den Gesundheitszustand der Tiere zu überprüfen
+• Automatische Aktualisierung über die Zustände der Tiere in den verschiedenen Welten
+• Fütterungsmaßnahmen direkt über die Anwendung zu initiieren
+• Die Produktivität der Tierpfleger zu überprüfen 
 
 Projektbegründung 
 
