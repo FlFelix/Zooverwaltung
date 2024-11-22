@@ -135,29 +135,25 @@ GUI
 
 Das GUI der Zooverwaltung ist bewusst einfach und übersichtlich gehalten. Zentral werden die drei Zoobereiche Asien, Afrika und Alaska dargestellt. Es handelt sich um Buttons, über deren Betätigung man in die einzelnen Bereiche kommt, um die enthaltenen Tiere anzuzeigen und die Fütterung zu starten. Als Zusatzinformation ist der aktuelle Zustand der Tiere enthalten, welcher durch eine graphische Hinterlegung der Buttons verdeutlicht wird. Wir haben uns bei der Darstellung der Zustände für folgende graphische Anzeigen entschieden:
 
-Satt:							Fast satt:
+Satt:							
 
-Dies ist der Startzustand. Die Tiere			Zustand nach Satt. Da wir uns für 
-sind satt und haben die höchstmögliche		    	eine Einteilung der Zustandsstufen von 100 
-Futterstufe. Dieser Zustand wird auch 		    	bis 0 entschieden haben, und nach jedem 
-direkt nach einer Fütterung erreicht.			Besuch eines der Tierpflegers in einem 
-Bereich die Zustandsstufe um 25 Punkte
-Reduziert wird, stellt der Zustand fast
-Satt 75 Zustandspunkte dar.
+Dies ist der Startzustand. Die Tiere sind satt und haben die höchstmögliche Futterstufe. Dieser Zustand wird auch direkt nach einer Fütterung erreicht. 
 
+Fast satt:
 
-Hungrig:						 Sehr Hungrig:
+Zustand nach Satt. Da wir uns für eine Einteilung der Zustandsstufen von 100 bis 0 entschieden haben, und nach jedem Besuch eines der Tierpflegers in einem Bereich die Zustandsstufe um 25 Punkte Reduziert wird, stellt der Zustand fast Satt 75 Zustandspunkte dar.
 
-Zustand nach fast satt. Die				 Zustand nach sind hungrig. Die Zustands-
-Zustandspunkte betragen in 				 punkte betragen in dieser Stufe 25. Dies ist
-dieser Stufe 50.					 Die letzte Möglichkeit, die Tiere zu füttern, 
-							 bevor der Endzustand erreicht wird.
+Hungrig:						
+
+Zustand nach fast satt. Die Zustandspunkte betragen in dieser Stufe 50.					  
+							 
+Sehr Hungrig:
+
+Zustand nach sind hungrig. Die Zustandspunkte betragen in dieser Stufe 25. Dies ist die letzte Möglichkeit, die Tiere zu füttern, bevor der Endzustand erreicht wird.
+
 Tot:
 
-Zustand nach sehr hungrig und der aktuelle Endzustand. 
-Die Tiere sind Tot und können auch nicht mehr gefüttert 
-werden. Ein Zugriff auf den Bereich ist durch einen 
-deaktivierten Bereichsbutton nicht mehr möglich.
+Zustand nach sehr hungrig und der aktuelle Endzustand. Die Tiere sind Tot und können auch nicht mehr gefüttert werden. Ein Zugriff auf den Bereich ist durch einen deaktivierten Bereichsbutton nicht mehr möglich.
 
 Tierpfleger Anzeige:
 
