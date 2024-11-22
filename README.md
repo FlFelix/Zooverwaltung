@@ -46,8 +46,7 @@ Da sich das Gelsenkirchener Zoo im Anfangszustand der IT bewegt, müssen wir von
 
 Entwurfsphase
 
-Das Projekt wird im Zeitraum vom 15.11.2024 bis 22.11.2024 durchgeführt. Die tägliche Arbeitszeit beträgt 8 Stunden. Gearbeitet wird am Arbeitsplatz vor Ort. Für das Projekt stand ein Zeitrahmen von 48 Stunden zur Verfügung. Dieser wurde in verschiedene Phasen unterteilt, die bei der Softwareentwicklung durchlaufen werden. Hier die grobe Aufteilung der Projektphasen:
-
+Das Projekt wird im Zeitraum vom 15.11.2024 bis 22.11.2024 durchgeführt. Die tägliche Arbeitszeit beträgt 8 Stunden. Gearbeitet wird am Arbeitsplatz vor Ort. Für das Projekt stand ein Zeitrahmen von 48 Stunden zur Verfügung. Dieser wurde in verschiedene Phasen unterteilt, die bei der Softwareentwicklung durchlaufen werden.
 Für die Durchführung des Projektes steht ein Arbeitsplatz mit Computer zur Verfügung. Das auf dem Computer installierte Betriebssystem ist Windows 10. Im Rahmen der Projektarbeit wird verschiedene Software verwendet, die bereits installiert ist. Dazu gehören Microsoft Visual Studio 2022, Microsoft Office Word, Microsoft Office Excel, diverse Browser und Notepad++. Diagramme werden mit yEd erstellt. Screenshots werden mit Lightshot erstellt und gegebenenfalls mit paint.net nachbearbeitet.
 
 Projektkosten
